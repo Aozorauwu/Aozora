@@ -1,0 +1,145 @@
+body{
+    background-image: url("https://cdn.discordapp.com/attachments/902567385972760666/907371384102084688/unknown.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: left;
+}
+div h1{
+    text-align: center;
+    height: 100px;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: white;
+}
+.all{
+    margin: 0 auto;
+    text-align: center;
+    max-width: 800px;
+    background-color: white;
+    height: 100%;
+    opacity: 1;
+}
+.all .container{
+    background-color: rgb(255, 255, 255);
+    color: white;
+    width: 270px;
+    height: 390px;
+    border-radius: 10px;
+    margin: 0 auto;
+    display: inline-block;
+    overflow: hidden;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    border: 1px solid black;
+    opacity: 1;
+}
+
+.all .container img{
+
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -ms-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    transition: all .2s ease;
+    
+    vertical-align: middle;
+}
+
+.all .container img:hover{
+    -webkit-transform:scale(1.5); /* Safari and Chrome */
+    -moz-transform:scale(1.5); /* Firefox */
+    -ms-transform:scale(1.5); /* IE 9 */
+    -o-transform:scale(1.5); /* Opera */
+    transform:scale(1.5);
+}
+.all .sinopse p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.all .sinopse{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.all .gallery img{
+    max-width: 243px;
+    margin-bottom: 2px;
+}
+
+.all .gallery img{
+
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -ms-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    transition: all .2s ease;
+    
+    vertical-align: middle;
+}
+
+.all .gallery img:hover{
+    -webkit-transform:scale(1.3); /* Safari and Chrome */
+    -moz-transform:scale(1.3); /* Firefox */
+    -ms-transform:scale(1.3); /* IE 9 */
+    -o-transform:scale(1.3); /* Opera */
+    transform:scale(1.3);
+}
+
+
+.footer {
+    text-align: center;
+    margin: 0 auto;
+    display: table;
+    width:80%;
+    table-layout: fixed;
+    border: 3px solid #bbb;
+}
+.footer-title-box {
+    display: table-header-group;
+    font-weight: bold;
+
+
+}
+
+.footer-row-box {
+    display: table-row-group;
+
+
+}
+.footer-box {
+    display: table-cell;
+    text-align: center;
+    border: 1px solid #bbb;
+}
+
+.all .apoio{
+    margin-left: 5%;
+    
+}
+
+.all .apoio p{
+    text-align: left;
+    padding-bottom: 15px;
+    font-size: 25px;
+}
+
+.faq .Pergunta{
+    margin-left: 5%;
+    font-size: 25px;
+    text-align: left;
+}
+
+.faq .Resposta{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 10%;
+    padding-bottom: 15px;
+}
+
+.download h1{
+    margin-bottom: 10px;
+}
