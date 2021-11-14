@@ -10,15 +10,17 @@ div h1{
     height: 100px;
     max-width: 800px;
     margin: 0 auto;
-    background-color: white;
+    background-color: rgb(118, 109, 184);
+    color: white;
+    opacity: 0.8;
 }
 .all{
     margin: 0 auto;
     text-align: center;
     max-width: 800px;
-    background-color: white;
-    height: 100%;
-    opacity: 1;
+    background-color: rgb(118, 109, 184);
+    height: 100vh;
+    opacity: 0.8;
 }
 .all .container{
     background-color: rgb(61, 61, 61);
